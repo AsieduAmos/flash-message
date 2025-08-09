@@ -1,0 +1,69 @@
+.parent{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    height: 700px;
+    background-color: rgb(134, 113, 113);
+
+}
+.success{
+    display: inline-block;
+    width: 280px;
+    height: 500px;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 50px;
+    text-align: center;
+    color: blue; 
+}
+.error{
+    display: inline-block;
+    width: 280px;
+    height: 500px;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 20px;
+    text-align: center;
+    color: red; 
+}
+.continuebutton{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 45px;
+    padding-right: 45px;
+    background-color: rgb(117, 117, 207);
+    color: white;
+    margin-top: 55px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.errorbutton{
+     padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 45px;
+    padding-right: 45px;
+    background-color: red;
+    color: white;
+    margin-top: 55px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bold;
+}
+.successimage{
+    margin-top: 30px;
+     width: 190px;
+    margin-bottom: 10px;
+    
+}
+
+.errorimage{
+    width: 250px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
