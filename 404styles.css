@@ -1,0 +1,29 @@
+.page{
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 120px;
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    text-align: center;
+    color: red;
+   
+
+}
+.homepage{
+    margin-top: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 35px;
+    padding-right: 35px;
+    background-color:green;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    font-weight: bold;
+}
+p{
+    font-weight: bold;
+}
